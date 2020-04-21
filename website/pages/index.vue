@@ -46,7 +46,7 @@
       </div>
     </section>
     <section class="home-section footer">
-      &copy; 2019 Developed by <a href="https://egoist.sh" target="_blank">EGOIST</a>.
+      &copy; 2019 Developed by <a href="https://egoist.sh" target="_blank">EGOIST</a>. Hosted by <a href="https://netlify.com">Netlify</a>.
     </section>
   </div>
 </template>
